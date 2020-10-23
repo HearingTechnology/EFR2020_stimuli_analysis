@@ -5,3 +5,5 @@ The EFR_extractor.m file can be used to extract EFR magnitudes from raw EEG reco
 
 Enjoy!
 Sarah
+
+Work supported by the European Research Council (ERC-StG-678129), German Research Foundation (PP1608 E924/1-1) and DFG Cluster of Excellence (EXC 1077/1)
